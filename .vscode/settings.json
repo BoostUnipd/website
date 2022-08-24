@@ -1,10 +1,2 @@
 {
-    "frontMatter.content.pageFolders": [
-        {
-            "title": "phd-website",
-            "path": "[[workspace]]"
-        }
-    ],
-    "frontMatter.framework.startCommand": "hugo server -D",
-    "frontMatter.preview.host": "http://localhost:1313"
 }
