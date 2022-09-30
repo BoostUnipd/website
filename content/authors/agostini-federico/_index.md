@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Ph.D. Students
 ---
 
 I am a Ph.D. student in the National Ph.D. in Artificial Intelligence led by the Polytechnic University of Turin and the University of Padua. My field of study is related to the applications of Machine Learning in the bio-physical and medical domains, such as Cardiac Magnetic Resonance Imaging and ECG. In addition, I also work on NLP-related projects related to QA and NER extraction from medical notes.

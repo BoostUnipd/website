@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nome Cognome
+title: Alberto Zucchetta
 
 # Is this the primary user of the site?
 superuser: false
