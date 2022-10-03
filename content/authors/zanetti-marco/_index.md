@@ -14,22 +14,28 @@ organizations:
     url: 'https://www.unipd.it/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short Bio
+bio: PhD at Univeristy of Padova, then research fellow at CERN and
+research associate at MIT. Since 2002 member of the CMS collaboration,
+spanning detector construction and commissioning, trigger and
+computing development and operations, Higgs
+discovery, searches for Dark Matter and New Physics. 
+Now focused on advanced technologies and statistical methods 
+to reduce bias in the analysis of complex datasets, in particular
+the developmet of a triggerless readout for HEP detectors and
+Machine Learning based anomaly detection algorithms
 
 interests:
-  - Artificial Intelligence
+  - Fundamental Physics, Machine Learning and Bayesian Inference,
+  Muon Collider.
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics
+      institution: University of Padova and CERN
+      year: 2007
+    - course: BSc in Physics
+      institution: University of Padova
+      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+    link: 'mailto:marco.zanetti@unipd.it'
+  - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/mzanetti79
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mzanetti79
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +72,11 @@ user_groups:
   - Faculty Members
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marco Zanetti is an associate professor at the Department of Physics
+and Astronomy at the University of Padova. He conceived and now
+coordinate the master program in Physics of Data.
+A member of the CMS experiment at CERN, he participated in the
+discovery of the Higgs boson in 2012. Since then he is looking for 
+Physics not explained by the Standard Model, developing technical and
+statistical tools allowing to reduce the bias with which novel
+phenomena are looked for.
