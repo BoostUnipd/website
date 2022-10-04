@@ -29,12 +29,12 @@ main:
     pre: <i class="fa-regular fa-calendar" style="padding-right:5px"></i>
     weight: 40
   - name: Teaching
-    url: #teaching
+    url: teaching
     identifier: teaching
     pre: <i class="fa-solid fa-building-columns" style="padding-right:5px"></i>
     weight: 50
   - name: Thesis
-    url: #thesis
+    url: thesis
     identifier: thesis
     pre: <i class="fa-solid fa-book-open" style="padding-right:5px"></i>
     weight: 60
