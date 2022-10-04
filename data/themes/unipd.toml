@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Unipd"
+
+[light]
+# Primary
+primary = "#9B0014"
+# Background
+background = "#FFFFFF"
+
+# Menu
+menu_primary = "#9B0014"
+menu_text = "#FFFFFF"
+menu_text_active = "#000000"
+menu_title = "#FFFFFF"
+
+# Links
+link = "#000000"
+link_hover = "#9B0014"
+link_decoration = "underline"
+
+# Home sections
+home_section_odd = "#FFFFFF"
+home_section_even = "#F2F2F2"

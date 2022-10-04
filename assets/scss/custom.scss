@@ -1,0 +1,12 @@
+/*
+    ===================
+    = NAVIGATION MENU =
+    ===================
+*/
+//  - add bold and underline on hover
+.nav-link {
+    &:hover {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+}
