@@ -2,6 +2,10 @@
 # Display name
 title: Marco Zanetti
 
+# Username (this should match the folder name)
+authors:
+  - zanetti-marco
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,19 +18,10 @@ organizations:
     url: 'https://www.unipd.it/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD at Univeristy of Padova, then research fellow at CERN and
-research associate at MIT. Since 2002 member of the CMS collaboration,
-spanning detector construction and commissioning, trigger and
-computing development and operations, Higgs
-discovery, searches for Dark Matter and New Physics. 
-Now focused on advanced technologies and statistical methods 
-to reduce bias in the analysis of complex datasets, in particular
-the developmet of a triggerless readout for HEP detectors and
-Machine Learning based anomaly detection algorithms
+bio: PhD at Univeristy of Padova, then research fellow at CERN and research associate at MIT. Since 2002 member of the CMS collaboration, spanning detector construction and commissioning, trigger and computing development and operations, Higgs discovery, searches for Dark Matter and New Physics. Now focused on advanced technologies and statistical methods to reduce bias in the analysis of complex datasets, in particular the developmet of a triggerless readout for HEP detectors and Machine Learning based anomaly detection algorithms.
 
 interests:
-  - Fundamental Physics, Machine Learning and Bayesian Inference,
-  Muon Collider.
+  - Fundamental Physics, Machine Learning and Bayesian Inference, Muon Collider.
 
 education:
   courses:
@@ -46,8 +41,8 @@ social:
     icon_pack: fas
     link: 'mailto:marco.zanetti@unipd.it'
   - icon: twitter
-   icon_pack: fab
-   link: https://twitter.com/mzanetti79
+    icon_pack: fab
+    link: https://twitter.com/mzanetti79
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -72,11 +67,6 @@ user_groups:
   - Faculty Members
 ---
 
-Marco Zanetti is an associate professor at the Department of Physics
-and Astronomy at the University of Padova. He conceived and now
-coordinate the master program in Physics of Data.
-A member of the CMS experiment at CERN, he participated in the
-discovery of the Higgs boson in 2012. Since then he is looking for 
-Physics not explained by the Standard Model, developing technical and
-statistical tools allowing to reduce the bias with which novel
-phenomena are looked for.
+Marco Zanetti is an associate professor at the Department of Physics and Astronomy at the University of Padova. He conceived and now coordinate the master program in Physics of Data.
+
+A member of the CMS experiment at CERN, he participated in the discovery of the Higgs boson in 2012. Since then he is looking for Physics not explained by the Standard Model, developing technical and statistical tools allowing to reduce the bias with which novel phenomena are looked for.
