@@ -12,24 +12,32 @@ role: Ph.D. Student
 organizations:
   - name: University of Padua
     url: 'https://www.unipd.it/'
+  - name: CERN
+    url: 'https://home.cern/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short Bio
+bio: PhD student at University of Padova and and CERN Doctoral Student since 2021. Part of the CMS collaboration since 2020, working on both Higgs rare decays physics analysis and DAQ development for triggerless readout.
 
 interests:
-  - Artificial Intelligence
+  - High-Energy-Physics, Machine Learning, Trigger and DAQ, FPGA applications
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Physics
+      institution: University of Padova
+      year: 2019
+    - course: MSc in Physics of Data
+      institution: University of Padova
+      year: 2021
+    - course: CERN Technical Student in CMS DAQ group
+      institution: CERN
+      year: 2021
+    - course: CERN Doctoral Student in CMS DAQ group (on-going)
+      institution: CERN
+      year: 2022
+    - course: PhD in Physics (on-going)
+      institution: University of Padova
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:rocco.ardino@phd.unipd.it'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -47,7 +55,7 @@ social:
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/RoccoA97
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +74,5 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rocco Ardino is a PhD student in Physics at the University of Padova and Doctoral Student at CERN for CMS experiment.
+Being part of the CMS collaboration since 2020, he partecipated in the analysis of Higgs rare decays to quarkonium states plus a photon and in the development of the Level-1 Trigger Scouting system.
