@@ -10,3 +10,19 @@
         text-decoration: underline;
     }
 }
+
+/*
+    =======================
+    = CUSTOM TITLE WIDGET =
+    =======================
+*/
+
+.title-widget {
+    padding: 0px 0px 25px 0px;
+
+    h1 {
+        font-size: calc(min(50pt, 15vw));
+        text-decoration: underline;
+        font-weight: bold;
+    }
+}

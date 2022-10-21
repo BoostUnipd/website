@@ -21,7 +21,7 @@ design:
   spacing:
     padding: ['100px', '0px', '200px', '0px']
 advanced:
-   css_class: fullscreen
+   css_class: fullscreen title-widget
 ---
 
 ---
@@ -36,7 +36,7 @@ and at the same time those should be kept to the essential.
 This attitude requires advanced technological and statistical tools to tackle the arduous challenges posed by the management, processing and analysis of large and complex datasets.
 
 This is the core business of **BOOST**.<br>
-Our main applications are in **High Energy Physics** and **data-driven medicine**. 
+Our main applications are in **High Energy Physics** and **Data-Driven Medicine**. 
 </div>
 
 ---
