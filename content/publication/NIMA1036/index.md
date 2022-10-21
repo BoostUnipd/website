@@ -1,5 +1,5 @@
 ---
-title: 'Learning new physics from an imperfect machine'
+title: 'A horizontally scalable online processing system for trigger-less data acquisition'
 authors:
   - Migliorini-Matteo
   - Pazzini-Jacopo
