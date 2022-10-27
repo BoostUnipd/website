@@ -2,16 +2,16 @@
 title: 'Learning new physics efficiently with nonparametric methods'
 authors:
   - Grosso-Gaia
-  - Letizia-Marco
-  - Losapio-Gianvito
-  - Pierini-Maurizio
-  - Rando-Marco
-  - Rosasco-Lorenzo
-  - Wulzer-Andrea
-  - Zanetti-Marco
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Letizia Marco
+  - Losapio Gianvito
+  - Pierini Maurizio
+  - Rando Marco
+  - Rosasco Lorenzo
+  - Wulzer Andrea
+  - Zanetti Marco
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 date: '2022-10-05'
 doi: '10.1140/epjc/s10052-022-10830-y'
 

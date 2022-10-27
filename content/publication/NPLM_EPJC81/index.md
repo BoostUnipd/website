@@ -2,13 +2,13 @@
 title: 'Learning multivariate new physics'
 authors:
   - D'Agnolo Raffaele
-  - grosso-gaia
+  - Grosso Gaia
   - Pierini Maurizio
   - Wulzer Andrea
-  - zanetti-marco
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Zanetti Marco
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 date: '2021-01-27'
 doi: '10.1140/epjc/s10052-021-08853-y'
 

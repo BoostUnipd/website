@@ -2,13 +2,13 @@
 title: 'Learning new physics from an imperfect machine'
 authors:
   - D'Agnolo Raffaele
-  - grosso-gaia
-  - Pierini Mauriizo
+  - Grosso Gaia
+  - Pierini Maurizio
   - Wulzer Andrea
-  - zanetti-marco
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Zanetti Marco
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 date: '2022-03-30'
 doi: '0.1140/epjc/s10052-022-10226-y'
 
