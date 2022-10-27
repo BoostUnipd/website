@@ -1,10 +1,10 @@
 ---
 title: 'Machine Learning Pipelines with Modern Big Data Tools for High Energy Physics'
 authors:
-  - Migliorini-Matteo
-  - Canali-Luca
-  - Castellotti-Riccardo
-  - Zanetti-Marco
+  - migliorini-matteo
+  - Canali Luca
+  - Castellotti Riccardo
+  - zanetti-marco
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
@@ -25,23 +25,7 @@ publication: In *Computing and Software for Big Science*
 publication_short: 
 
 abstract: >
-The effective utilization at scale of complex machine learning (ML)
-techniques for HEP use cases poses several technological challenges,
-most importantly on the actual implementation of dedicated end-to-end
-data pipelines. A solution to these challenges is presented, which
-allows training neural network classifiers using solutions from the
-Big Data and data science ecosystems, integrated with tools, software,
-and platforms common in the HEP environment. In particular, Apache
-Spark is exploited for data preparation and feature engineering,
-running the corresponding (Python) code interactively on Jupyter
-notebooks. Key integrations and libraries that make Spark capable of
-ingesting data stored using ROOT format and accessed via the XRootD
-protocol, are described and discussed. Training of the neural network
-models, defined using the Keras API, is performed in a distributed
-fashion on Spark clusters by using BigDL with Analytics Zoo and also
-by using TensorFlow, notably for distributed training on CPU and GPU
-resources. The implementation and the results of the distributed
-training are described in detail in this work.
+  The effective utilization at scale of complex machine learning (ML)   techniques for HEP use cases poses several technological challenges, most importantly on the actual implementation of dedicated end-to-end   data pipelines. A solution to these challenges is presented, which allows training neural network classifiers using solutions from the Big Data and data science ecosystems, integrated with tools, software,  and platforms common in the HEP environment. In particular, Apache Spark is exploited for data preparation and feature engineering, running the corresponding (Python) code interactively on Jupyter  notebooks. Key integrations and libraries that make Spark capable of ingesting data stored using ROOT format and accessed via the XRootD protocol, are described and discussed. Training of the neural network models, defined using the Keras API, is performed in a distributed fashion on Spark clusters by using BigDL with Analytics Zoo and also by using TensorFlow, notably for distributed training on CPU and GPU resources. The implementation and the results of the distributed training are described in detail in this work.
 
 # Summary. An optional shortened abstract.
 summary: ""

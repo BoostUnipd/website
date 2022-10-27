@@ -1,12 +1,12 @@
 ---
 title: 'Learning multivariate new physics'
 authors:
-  - DAgnolo-Raffaele
-  - Grosso-Gaia
-  - Pierini-Mauriizo
-  - Wulzer-Andrea
-  - Zanetti-Marco
- author_notes:
+  - D'Agnolo Raffaele
+  - grosso-gaia
+  - Pierini Maurizio
+  - Wulzer Andrea
+  - zanetti-marco
+author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2021-01-27'
@@ -26,7 +26,7 @@ publication: In *European Physics Journal C*
 publication_short: 
 
 abstract: >
-We discuss a method that employs a multilayer perceptron to detect deviations from a reference model in large multivariate datasets. Our data analysis strategy does not rely on any prior assumption on the nature of the deviation. It is designed to be sensitive to small discrepancies that arise in datasets dominated by the reference model. The main conceptual building blocks were introduced in D’Agnolo and Wulzer (Phys Rev D 99 (1), 015014. https://doi.org/10.1103/PhysRevD.99.015014. arXiv:1806.02350 [hep-ph], 2019). Here we make decisive progress in the algorithm implementation and we demonstrate its applicability to problems in high energy physics. We show that the method is sensitive to putative new physics signals in di-muon final states at the LHC. We also compare our performances on toy problems with the ones of alternative methods proposed in the literature.
+  We discuss a method that employs a multilayer perceptron to detect deviations from a reference model in large multivariate datasets. Our data analysis strategy does not rely on any prior assumption on the nature of the deviation. It is designed to be sensitive to small discrepancies that arise in datasets dominated by the reference model. The main conceptual building blocks were introduced in D’Agnolo and Wulzer (Phys Rev D 99 (1), 015014. https://doi.org/10.1103/PhysRevD.99.015014. arXiv:1806.02350 [hep-ph], 2019). Here we make decisive progress in the algorithm implementation and we demonstrate its applicability to problems in high energy physics. We show that the method is sensitive to putative new physics signals in di-muon final states at the LHC. We also compare our performances on toy problems with the ones of alternative methods proposed in the literature.
 
 # Summary. An optional shortened abstract.
 summary: ""

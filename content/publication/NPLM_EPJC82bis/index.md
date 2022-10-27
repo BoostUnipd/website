@@ -9,7 +9,7 @@ authors:
   - Rosasco-Lorenzo
   - Wulzer-Andrea
   - Zanetti-Marco
- author_notes:
+author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2022-10-05'
@@ -29,7 +29,7 @@ publication: In *European Physics Journal C*
 publication_short: 
 
 abstract: >
-We present a machine learning approach for model-independent new physics searches. The corresponding algorithm is powered by recent large-scale implementations of kernel methods, nonparametric learning algorithms that can approximate any continuous function given enough data. Based on the original proposal by D’Agnolo and Wulzer (Phys Rev D 99(1):015014, 2019, arXiv:1806.02350 [hep-ph]), the model evaluates the compatibility between experimental data and a reference model, by implementing a hypothesis testing procedure based on the likelihood ratio. Model-independence is enforced by avoiding any prior assumption about the presence or shape of new physics components in the measurements. We show that our approach has dramatic advantages compared to neural network implementations in terms of training times and computational resources, while maintaining comparable performances. In particular, we conduct our tests on higher dimensional datasets, a step forward with respect to previous studies.
+  We present a machine learning approach for model-independent new physics searches. The corresponding algorithm is powered by recent large-scale implementations of kernel methods, nonparametric learning algorithms that can approximate any continuous function given enough data. Based on the original proposal by D’Agnolo and Wulzer (Phys Rev D 99(1):015014, 2019, arXiv:1806.02350 [hep-ph]), the model evaluates the compatibility between experimental data and a reference model, by implementing a hypothesis testing procedure based on the likelihood ratio. Model-independence is enforced by avoiding any prior assumption about the presence or shape of new physics components in the measurements. We show that our approach has dramatic advantages compared to neural network implementations in terms of training times and computational resources, while maintaining comparable performances. In particular, we conduct our tests on higher dimensional datasets, a step forward with respect to previous studies.
 
 # Summary. An optional shortened abstract.
 summary: ""

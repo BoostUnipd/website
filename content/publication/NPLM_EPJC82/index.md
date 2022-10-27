@@ -1,12 +1,12 @@
 ---
 title: 'Learning new physics from an imperfect machine'
 authors:
-  - DAgnolo-Raffaele
-  - Grosso-Gaia
-  - Pierini-Mauriizo
-  - Wulzer-Andrea
-  - Zanetti-Marco
- author_notes:
+  - D'Agnolo Raffaele
+  - grosso-gaia
+  - Pierini Mauriizo
+  - Wulzer Andrea
+  - zanetti-marco
+author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2022-03-30'
@@ -26,19 +26,7 @@ publication: In *European Physics Journal C*
 publication_short: 
 
 abstract: >
-We show how to deal with uncertainties on the Standard Model
-predictions in an agnostic new physics search strategy that exploits
-artificial neural networks. Our approach builds directly on the
-specific Maximum Likelihood ratio treatment of uncertainties as
-nuisance parameters for hypothesis testing that is routinely employed
-in high-energy physics. After presenting the conceptual foundations of
-our method, we first illustrate all aspects of its implementation and
-extensively study its performances on a toy one-dimensional
-problem. We then show how to implement it in a multivariate setup by
-studying the impact of two typical sources of experimental
-uncertainties in two-body final states at the LHC.
-
-# Summary. An optional shortened abstract.
+  We show how to deal with uncertainties on the Standard Model predictions in an agnostic new physics search strategy that exploits artificial neural networks. Our approach builds directly on the specific Maximum Likelihood ratio treatment of uncertainties as nuisance parameters for hypothesis testing that is routinely employed in high-energy physics. After presenting the conceptual foundations of our method, we first illustrate all aspects of its implementation and extensively study its performances on a toy one-dimensional problem. We then show how to implement it in a multivariate setup by studying the impact of two typical sources of experimental uncertainties in two-body final states at the LHC.# Summary. An optional shortened abstract.
 summary: ""
 
 tags:
