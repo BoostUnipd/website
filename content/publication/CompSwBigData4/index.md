@@ -5,7 +5,7 @@ authors:
   - Canali-Luca
   - Castellotti-Riccardo
   - Zanetti-Marco
- author_notes:
+author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2020-06-15'
