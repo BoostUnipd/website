@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 
+  - name:
     url: /
     identifier: home
     pre: <i class="fa-solid fa-house"></i>
@@ -18,9 +18,9 @@ main:
     identifier: people
     pre: <i class="fa-solid fa-users" style="padding-right:5px"></i>
     weight: 20
-  - name: Research
-    url: research
-    identifier: research
+  - name: Publications
+    url: publication
+    identifier: publications
     pre: <i class="fa-solid fa-book" style="padding-right:5px"></i>
     weight: 30
   - name: Events

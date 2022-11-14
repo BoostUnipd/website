@@ -5,7 +5,7 @@ name = "Unipd"
 # Primary
 primary = "#9B0014"
 # Background
-background = "#FFFFFF"
+background = "#d9d9d9"
 
 # Menu
 menu_primary = "#9B0014"
@@ -19,5 +19,5 @@ link_hover = "#9B0014"
 link_decoration = "underline"
 
 # Home sections
-home_section_odd = "#FFFFFF"
-home_section_even = "#F2F2F2"
+home_section_odd = "#d9d9d9"
+home_section_even = "#cccccc"
